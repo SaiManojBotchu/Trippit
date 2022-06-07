@@ -1,0 +1,470 @@
+[
+  {
+    "startLocation": {
+      "description": "vizag",
+      "type": "Point",
+      "coordinates": [83.2905, 17.7214],
+      "address": "Vizag"
+    },
+    "ratingsAverage": 5,
+    "ratingsQuantity": 9,
+    "images": ["tour-1-1.jpg", "tour-1-2.jpg", "tour-1-3.jpg"],
+    "startDates": [
+      "2020-04-25T09:00:00.000Z",
+      "2020-07-20T09:00:00.000Z",
+      "2020-10-05T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2951",
+    "name": "The Araku Valley",
+    "duration": 3,
+    "maxGroupSize": 25,
+    "difficulty": "easy",
+    "guides": [
+      "5c8a21d02f8fb814b56fa189",
+      "5c8a201e2f8fb814b56fa186",
+      "5c8a1f292f8fb814b56fa184"
+    ],
+    "price": 8000,
+    "summary": "Araku Valley, popularly known as Araku, is a scenic hill station in the Vishakhapatnam.",
+    "description": "Araku has some interesting places to visit including Borra caves, Tyda, Katiki Falls, Tribal Museum & Padmapuram Botanical Gardens. Besides, these the coffee plantations are a must visit for those who want to indulge themselves in the flavors of nature. The tourists can see tribal folk dances like Dhimsa and Mayuri. The Araku Tribal Museum houses rich tribal tradition and number of artifacts and displays related to Eastern Ghat Tribal Culture.",
+    "imageCover": "tour-1-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2954",
+        "description": "Padmapuram Gardens",
+        "type": "Point",
+        "coordinates": [82.8799, 18.3367],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2953",
+        "description": "Araku Waterfalls",
+        "type": "Point",
+        "coordinates": [82.9988, 18.2792],
+        "day": 2
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2952",
+        "description": "Borra Caves",
+        "type": "Point",
+        "coordinates": [83.0397, 18.2807],
+        "day": 3
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "vizag",
+      "type": "Point",
+      "coordinates": [83.2905, 17.7214],
+      "address": "Vizag"
+    },
+    "ratingsAverage": 4.8,
+    "ratingsQuantity": 6,
+    "images": ["tour-2-1.jpg", "tour-2-2.jpg", "tour-2-3.jpg"],
+    "startDates": [
+      "2020-06-19T09:00:00.000Z",
+      "2020-07-20T09:00:00.000Z",
+      "2020-08-18T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2955",
+    "name": "Vishakapatnam",
+    "duration": 4,
+    "maxGroupSize": 15,
+    "difficulty": "medium",
+    "guides": ["5c8a22c62f8fb814b56fa18b", "5c8a1f4e2f8fb814b56fa185"],
+    "price": 7000,
+    "summary": " Vizag is one of the top most tourist place in AndhraPradesh.",
+    "description": "Visakhapatnam (also known locally as Vizag) is the largest city in Andhra Pradesh. It is primarily an industrial city, but also attracts tourists due to its unspoiled sandy beaches, well built and maintained parks, Buddhist Remnant sites and nearby scenic areas, such as the Araku Valley.",
+    "imageCover": "tour-2-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2959",
+        "description": "submarine museum",
+        "type": "Point",
+        "coordinates": [83.3301, 17.7172],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2958",
+        "description": "KAILASAGIRI",
+        "type": "Point",
+        "coordinates": [83.3422, 17.7489],
+        "day": 2
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2957",
+        "description": "Indira Gandhi Zoological Park",
+        "type": "Point",
+        "coordinates": [83.35, 17.7691],
+        "day": 3
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2956",
+        "description": "Thotlakonda",
+        "type": "Point",
+        "coordinates": [83.4105, 17.8261],
+        "day": 4
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "Papikondalu station",
+      "type": "Point",
+      "coordinates": [81.7914, 17.0042],
+      "address": "Bhadrachalam,Khammam District"
+    },
+    "ratingsAverage": 4.5,
+    "ratingsQuantity": 6,
+    "images": ["tour-3-1.jpg", "tour-3-2.jpg", "tour-3-3.jpg"],
+    "startDates": [
+      "2022-01-05T10:00:00.000Z",
+      "2022-02-12T10:00:00.000Z",
+      "2023-01-06T10:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c295a",
+    "name": "Papikondalu",
+    "duration": 2,
+    "maxGroupSize": 10,
+    "difficulty": "difficult",
+    "guides": [
+      "5c8a21d02f8fb814b56fa189",
+      "5c8a23412f8fb814b56fa18c",
+      "5c8a1f4e2f8fb814b56fa185"
+    ],
+    "price": 6000,
+    "summary": "Papi Hills or PapiKondalu (In Telugu language) is part of Eastern Ghats",
+    "description": "Papi Hills or PapiKondalu (In Telugu language) is part of Eastern Ghats through which Godavari pierces and flows in twists and turns towards east. Entire area of PapiKondalu is covered by tropical rain forests and deciduous rain forests.It is said that Lord Rama and goddess Sita dwelled here during the exile(vanavasa).",
+    "imageCover": "tour-3-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c295c",
+        "description": "Perantala Palli",
+        "type": "Point",
+        "coordinates": [83.566544, 18.308632],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c295b",
+        "description": "Pattisam",
+        "type": "Point",
+        "coordinates": [81.6309, 17.2049],
+        "day": 2
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "munnar, kerala",
+      "type": "Point",
+      "coordinates": [77.0595, 10.0889],
+      "address": "munnar station , kerala "
+    },
+    "ratingsAverage": 4.6,
+    "ratingsQuantity": 5,
+    "images": ["tour-4-1.jpg", "tour-4-2.jpg", "tour-4-3.jpg"],
+    "startDates": [
+      "2020-03-11T10:00:00.000Z",
+      "2020-05-02T09:00:00.000Z",
+      "2020-06-09T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c295d",
+    "name": "munnar kerala",
+    "duration": 3,
+    "maxGroupSize": 20,
+    "difficulty": "easy",
+    "guides": ["5c8a22c62f8fb814b56fa18b", "5c8a201e2f8fb814b56fa186"],
+    "price": 4280,
+    "summary": "Living the life of Wanderlust in the munnar' most beatiful places",
+    "description": "Munnar is a popular hill-station of Kerala perched at an altitude of 1600 metres in the Western Ghats. Famous for its tea estates, various shades of green, blankets of mist and craggy peaks, Munnar is aptly known as the 'Kashmir of South India'",
+    "imageCover": "tour-4-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2960",
+        "description": "echo point",
+        "type": "Point",
+        "coordinates": [80.679, 40.0817],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c295f",
+        "description": "Atukkad Waterfalls",
+        "type": "Point",
+        "coordinates": [76.8294, 10.0539],
+        "day": 2
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c295e",
+        "description": "Pothamedu View Point",
+        "type": "Point",
+        "coordinates": [77.064055, 10.059755],
+        "day": 3
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "Vijayawada",
+      "type": "Point",
+      "coordinates": [80.62, 16.5187],
+      "address": "vijayawada , andhrapradesh"
+    },
+    "ratingsAverage": 4.7,
+    "ratingsQuantity": 7,
+    "images": ["tour-5-1.jpg", "tour-5-2.jpg", "tour-5-3.jpg"],
+    "startDates": [
+      "2020-08-05T09:00:00.000Z",
+      "2020-03-20T10:00:00.000Z",
+      "2020-08-12T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2961",
+    "name": "vijayawada",
+    "duration": 5,
+    "maxGroupSize": 15,
+    "difficulty": "medium",
+    "guides": [
+      "5c8a21f22f8fb814b56fa18a",
+      "5c8a23412f8fb814b56fa18c",
+      "5c8a201e2f8fb814b56fa186"
+    ],
+    "price": 9000,
+    "summary": "kanaka durga the goddess of power and riches is considered the presiding deity of vijayawada",
+    "description": "Vijayawada, also known as Bezawada, is one of the fastest emerging commercial hubs in Andhra Pradesh. But the city’s roots go beyond that, as numerous mythological references and historical evidence mark it as an important place of worship. Surrounded by the Bay of Bengal, the rivers Krishna and Budameru and the Indrakiladri Mountains, Vijayawada is indeed a charming city to find solace in.",
+    "imageCover": "tour-5-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2965",
+        "description": "kanaka durga temple",
+        "type": "Point",
+        "coordinates": [80.6059, 16.5154],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2964",
+        "description": "bhavani island",
+        "type": "Point",
+        "coordinates": [80.573, 16.5231],
+        "day": 2
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2963",
+        "description": "prakasam barrage",
+        "type": "Point",
+        "coordinates": [80.6052, 16.5074],
+        "day": 4
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2962",
+        "description": "undavalli caves",
+        "type": "Point",
+        "coordinates": [80.5817, 16.4967],
+        "day": 5
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "darjeeling, india ",
+      "type": "Point",
+      "coordinates": [88.2631, 27.038],
+      "address": "darjelling railway station, westbengal"
+    },
+    "ratingsAverage": 3.9,
+    "ratingsQuantity": 7,
+    "images": ["tour-6-1.jpg", "tour-6-2.jpg", "tour-6-3.jpg"],
+    "startDates": [
+      "2020-07-19T09:00:00.000Z",
+      "2020-09-06T09:00:00.000Z",
+      "2021-03-18T10:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2966",
+    "name": "Darjelling",
+    "duration": 14,
+    "maxGroupSize": 5,
+    "difficulty": "difficult",
+    "guides": [
+      "5c8a21f22f8fb814b56fa18a",
+      "5c8a1f292f8fb814b56fa184",
+      "5c8a1f4e2f8fb814b56fa185"
+    ],
+    "price": 15000,
+    "summary": "Jaw-dropping locales, mesmerising sunrises, the untouched beauty of the hills",
+    "description": "Jaw-dropping locales, mesmerising sunrises, the untouched beauty of the hills, the old-world charm of the past, and the welcoming smiles of the local people all add up to make Darjeeling one of the most beautiful hill stations in Eastern part of India. Spread over a steep mountain ridge, nestled amidst acres of lush green tea plantations, Darjeeling stands at the height of 2,050 meters above sea level, thus boasting of cool climes all year round. This scenic hill station is the perfect getaway for a romantic honeymoon and is just around 700 kilometres away from Kolkata.",
+    "imageCover": "tour-6-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c296b",
+        "description": "tiger hill",
+        "type": "Point",
+        "coordinates": [88.2944, 26.9967],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c296a",
+        "description": "batasia loop",
+        "type": "Point",
+        "coordinates": [88.2417, 27.0167],
+        "day": 2
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2969",
+        "description": "darjelling ropeways",
+        "type": "Point",
+        "coordinates": [88.2663, 27.041],
+        "day": 3
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2968",
+        "description": "himalayan mountaineering institute",
+        "type": "Point",
+        "coordinates": [88.2532, 27.0586],
+        "day": 4
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2967",
+        "description": "nightingle park",
+        "type": "Point",
+        "coordinates": [88.2601, 27.0537],
+        "day": 5
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "Andamana station",
+      "type": "Point",
+      "coordinates": [92.6586, 11.7401],
+      "address": "andaman station,cave road,india"
+    },
+    "ratingsAverage": 4.4,
+    "ratingsQuantity": 7,
+    "images": ["tour-7-1.jpg", "tour-7-2.jpg", "tour-7-3.jpg"],
+    "startDates": [
+      "2020-02-12T10:00:00.000Z",
+      "2020-04-14T09:00:00.000Z",
+      "2020-09-01T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c296c",
+    "name": "Andaman & Nicobar Islands",
+    "duration": 3,
+    "maxGroupSize": 8,
+    "difficulty": "easy",
+    "guides": ["5c8a22c62f8fb814b56fa18b", "5c8a23412f8fb814b56fa18c"],
+    "price": 6060,
+    "summary": "Blue seas, virgin islands and colonial past",
+    "description": "Replete with picturesque shimmering beaches, lagoons of turquoise blue waters and a bit of history, Andaman & Nicobar Islands is a little slice of paradise tucked around 1,400 km away from the east coast of India. The union territory comprises a total of 572 islands, only 37 of which are inhabited and a few are open to the tourists.Port Blair, the capital city of Andaman & Nicobar Islands, is the gateway to the archipelago and is connected with various islands via multiple daily ferries. Havelock and Neil Island are some of the most famous islands among tourists and is known for pearly white sands, palm-lined shores and offer some of the best snorkelling and diving options in India.",
+    "imageCover": "tour-7-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c296f",
+        "description": "Havelock Island",
+        "type": "Point",
+        "coordinates": [92.9876, 11.9761],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c296e",
+        "description": "Cellular Jail",
+        "type": "Point",
+        "coordinates": [92.748, 11.6738],
+        "day": 2
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c296d",
+        "description": "Viper Island",
+        "type": "Point",
+        "coordinates": [92.6971, 11.6615],
+        "day": 3
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "goa",
+      "type": "Point",
+      "coordinates": [73.827827, 15.496777],
+      "address": "goa"
+    },
+    "ratingsAverage": 4.8,
+    "ratingsQuantity": 6,
+    "images": ["tour-8-1.jpg", "tour-8-2.jpg", "tour-8-3.jpg"],
+    "startDates": [
+      "2021-03-23T10:00:00.000Z",
+      "2021-10-25T09:00:00.000Z",
+      "2022-01-30T10:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2970",
+    "name": "The Goa City ",
+    "duration": 3,
+    "maxGroupSize": 8,
+    "difficulty": "medium",
+    "guides": ["5c8a21d02f8fb814b56fa189", "5c8a1f292f8fb814b56fa184"],
+    "price": 2997,
+    "summary": "Beaches, Sunsets and Crazy Nights",
+    "description": "Lying on the west coast, Goa is one of the smallest states in India known for its brilliant beaches, scrumptious food and Portuguese heritage. Panjim, the capital city located in the centre is well-connected with an international airport and roads and trains run from North to South part of GoaWith a coastline stretching for over 100 kilometres, Goa has numerous beaches that attract millions of visitors. While Baga and Calangute are more popular among the Indian family crowd, Anjuna and Arambol draw a lot of foreign tourists. The beaches in South Goa are relatively lesser explored, but some of them like Agonda and Palolem are more beautiful.",
+    "imageCover": "tour-8-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2973",
+        "description": "Calangute Beach",
+        "type": "Point",
+        "coordinates": [73.7535, 15.5494],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2972",
+        "description": "Basilica of Bom Jesus",
+        "type": "Point",
+        "coordinates": [73.9116, 15.5009],
+        "day": 2
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2971",
+        "description": "Fort Aguada",
+        "type": "Point",
+        "coordinates": [73.7732, 15.4926],
+        "day": 3
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "Agra station",
+      "type": "Point",
+      "coordinates": [78.008072, 27.17667],
+      "address": "Agra station ,Newdelhi,india"
+    },
+    "ratingsAverage": 4.7,
+    "ratingsQuantity": 7,
+    "images": ["tour-9-1.jpg", "tour-9-2.jpg", "tour-9-3.jpg"],
+    "startDates": [
+      "2020-12-16T10:00:00.000Z",
+      "2021-01-16T10:00:00.000Z",
+      "2021-12-12T10:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2974",
+    "name": "Agra-tajmahal",
+    "duration": 1,
+    "maxGroupSize": 12,
+    "difficulty": "easy",
+    "guides": [
+      "5c8a21f22f8fb814b56fa18a",
+      "5c8a201e2f8fb814b56fa186",
+      "5c8a23412f8fb814b56fa18c"
+    ],
+    "price": 4089,
+    "summary": "The city of Taj Mahal, the monument of eternal love",
+    "description": "Home to one of the 7 wonders of the world, the Taj Mahal, Agra is a sneak peek into the architectural history with other UNESCO World Heritage Sites as Agra Fort and Fatehpur Sikri. History, architecture, romance all together create the magic of Agra and hence makes for a must-visit for anyone living in or visiting India",
+    "imageCover": "tour-9-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2975",
+        "description": "Thetajmahal",
+        "type": "Point",
+        "coordinates": [78.0421, 27.1751],
+        "day": 1
+      }
+    ]
+  }
+]
